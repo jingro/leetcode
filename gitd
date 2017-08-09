@@ -1,4 +1,0 @@
-#!/usr/bin/env zsh
-git add .
-git commit -m "leetcode updated: $(date "+%Y-%m-%d %h:%M:%S")"
-#git push -u origin master
