@@ -1,0 +1,4 @@
+#!/bin/zsh
+git add .
+git commit -m "leetcode updated: $(date "+%Y-%m-%d %h:%M:%S")"
+
